@@ -6,19 +6,68 @@
 ## Estos son los lenguajes que utilizo en mi día a día: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-taro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Languages and Tools
+## 💻 Languages and Tools
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-8B4513?style=for-the-badge&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+<p align="center">
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Eclipse -->
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- SQL Developer -->
+  <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQL Developer" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Oracle -->
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+</p>
 
 
