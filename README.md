@@ -5,7 +5,11 @@
 
 ## 🔧 Technologies I Work With
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-taro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## 💻 Languages and Tools
 
